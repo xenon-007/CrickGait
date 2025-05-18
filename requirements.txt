@@ -1,0 +1,12 @@
+Flask
+streamlit
+opencv-python
+numpy
+pandas
+matplotlib
+mediapipe
+scikit-learn
+joblib
+RPi.GPIO
+adafruit-blinka
+adafruit-circuitpython-busdevice
